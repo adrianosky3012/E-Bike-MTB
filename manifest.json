@@ -1,7 +1,7 @@
 {
-  "name": "E-Bike Battery",
-  "short_name": "E-Bike Battery",
-  "description": "Calcolatore consumi, autonomia ed efficienza per e-bike",
+  "name": "E-Bike MTB",
+  "short_name": "E-Bike MTB",
+  "description": "Calcolatore consumi, autonomia ed efficienza per e-bike - Ciclisti vicino ai 70",
   "start_url": "/E-Bike-Battery/index.html",
   "scope": "/E-Bike-Battery/",
   "display": "standalone",
